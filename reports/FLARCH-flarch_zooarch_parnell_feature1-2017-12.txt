@@ -1,0 +1,47 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene lengthinmm &gt;= 130" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "brown bear" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 2
+
+
+End of report.
