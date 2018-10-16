@@ -1,0 +1,80 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 3207
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Canada ; Times: 4
+	Country: Argentina ; Times: 15
+	Country: South Africa ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-07 ; Times: 10
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-29 ; Times: 11
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1 isfossil:1" ; Times: 3
+	Query: "Parnell genus:Odocoileus stateprovince:&#34;Florida&#34; isfossil:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyphemus genus:Gopherus hastissue:1" ; Times: 2
+	Query: "Parnell Feature 1" ; Times: 1
+	Query: "0088dc89-b567-4f97-adda-4ba9fb973e15" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "genus:Gopherus hastissue:1" ; Times: 1
+	Query: "a61b94bd-3861-48af-bfb9-02e6d1acc6e7" ; Times: 1
+	Query: "isarch:1" ; Times: 1
+	Query: "bc990e88-8206-42c9-a872-1b9fb937e91e" ; Times: 1
+	Query: "institutioncode:uf-archaeology 2012-18-199.15" ; Times: 2
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "Parnell stateprovince:&#34;Florida&#34; isfossil:1" ; Times: 1
+	Query: "Parnell isarch:1" ; Times: 1
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762 catalognumber:2012-18-109.14" ; Times: 1
+	Query: "vntype:specimen genus:Gopherus hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762" ; Times: 14
+	Query: "Parnell Feature" ; Times: 1
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762 weight" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1 isarch:1" ; Times: 1
+	Query: "Parnell" ; Times: 5
+	Query: "Turtle county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1359 download events in this period)
+Total number of records downloaded: 2538
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Parnell genus:Odocoileus stateprovince:&#34;Florida&#34; isfossil:1" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Parnell Feature 1" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
