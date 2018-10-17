@@ -1,0 +1,47 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 794
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "parnell" ; Times: 3
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762" ; Times: 2
+	Query: "Parnell Feature 1" ; Times: 3
+	Query: "Parnell" ; Times: 1
+	Query: "000866d2-c177-4648-a200-ead4007051b9" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1416 download events in this period)
+Total number of records downloaded: 1860
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 2
+
+
+End of report.
