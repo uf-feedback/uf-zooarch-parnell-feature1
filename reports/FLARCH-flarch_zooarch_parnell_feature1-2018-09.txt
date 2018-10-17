@@ -1,0 +1,49 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 487
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Odocoileus isarch:1" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;Florida&#34; isarch:1" ; Times: 1
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1" ; Times: 2
+	Query: "parnell feature 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 846 download events in this period)
+Total number of records downloaded: 1864
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+
+
+End of report.
