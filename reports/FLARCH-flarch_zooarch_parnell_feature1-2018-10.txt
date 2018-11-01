@@ -1,0 +1,48 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 1064
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-17 ; Times: 8
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762" ; Times: 7
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "000866d2-c177-4648-a200-ead4007051b9" ; Times: 1
+	Query: "parnell feature 1" ; Times: 1
+	Query: "parnell" ; Times: 2
+	Query: "FLARCH Parnell Feature1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1300 download events in this period)
+Total number of records downloaded: 939
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+
+
+End of report.
