@@ -1,0 +1,70 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 467
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-20 ; Times: 3
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Provenience" ; Times: 1
+	Query: "8CO326" ; Times: 1
+	Query: "Ariopsis felis mappable:1" ; Times: 1
+	Query: "continent:North America hastissue:1 isarch:1 isfossil:1" ; Times: 1
+	Query: "specificepithet:saurus genus:elops mappable:1" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "FLARCH Parnell Feature1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 1
+	Query: "00a28159-a25c-4ab1-ae85-f4c0f1c4db64" ; Times: 1
+	Query: "8CO328" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1719 download events in this period)
+Total number of records downloaded: 4676
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+
+
+End of report.
