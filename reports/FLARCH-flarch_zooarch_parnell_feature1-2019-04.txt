@@ -1,0 +1,43 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 325
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "parnell feature" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "genus:Mephitis institutioncode:FLARCH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1263 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+
+
+End of report.
