@@ -1,0 +1,51 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 1135
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-11 ; Times: 5
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "2012-18-119.24 long bone" ; Times: 1
+	Query: "gbifdatasetid:3f42d91f-acc2-46e2-a807-f117eab8b762" ; Times: 2
+	Query: "institutioncode:FLARCH" ; Times: 2
+	Query: "66c14b9e-45fd-4071-8fd5-6b0ac42982f1" ; Times: 1
+	Query: "2012-18-119.24" ; Times: 1
+	Query: "parnell" ; Times: 8
+	Query: "Parnell" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 985 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+
+
+End of report.
