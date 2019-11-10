@@ -1,0 +1,39 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Parnell Feature 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1073 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+
+
+End of report.
