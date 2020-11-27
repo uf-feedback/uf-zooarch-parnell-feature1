@@ -1,0 +1,52 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "vntype:specimen hassex:1 isarch:1" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "isarch:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1023 download events in this period)
+Total number of records downloaded: 1142
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus niger" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+
+
+End of report.
