@@ -1,0 +1,47 @@
+Report for Institution Code FLARCH, Resource flarch_zooarch_parnell_feature1
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 965
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "vntype:specimen hastissue:1 isarch:1 isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; isarch:1" ; Times: 2
+	Query: "Parnell" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+
+
+End of report.
